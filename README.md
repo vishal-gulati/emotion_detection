@@ -21,6 +21,6 @@ https://vishalproject.herokuapp.com/
 ![Screenshot](output.PNG)
 
 ## Submitted by :- 
-Vishal Gulati
-101803152
-COE8
+### Vishal Gulati
+### 101803152
+### COE8
