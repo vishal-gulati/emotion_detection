@@ -33,11 +33,11 @@ app.post('/upload', upload.single('upload'), (req, res) => {
     python.stdout.on('data', function (data) {
       console.log('Pipe data from python script ...STARTS')
       console.log(data.toString())
+      res.render('pages/image',{data: data.toString()});
       console.log('Pipe data from python script ...ENDS')
     })
     python.stdout.on('close', function (code) {
         console.log('Closed with code ',code)
-        res.render('pages/image',{data: "Mosaic.jpeg"});
       })
     
 
