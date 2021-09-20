@@ -22,6 +22,9 @@ https://vishalproject.herokuapp.com/
 ## Output :
 ![Screenshot](output.PNG)
 
+## Flowchart : 
+![Screenshot](flowchart.PNG)
+
 ## Submitted by :- 
 ### Vishal Gulati
 ### 101803152
